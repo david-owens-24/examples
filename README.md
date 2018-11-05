@@ -1,6 +1,6 @@
 # git-stuff
 
-202attempt2 is an example of dynamic programming, more information can be found in the pdf in the src folder
+202attempt2 is an example of dynamic programming written in Java, more information can be found in the pdf in the src folder
 
 prototypeDesign1 and py files are examples of code produced as part of my dissertation for web scraping.
 More information about the design of the program and database used can be found in the WebScrapeInfo pdf
