@@ -10,4 +10,11 @@ Note that, even if the database is recreated, the web scraping system will not w
 More information can be found in WebScrapeInfo.pdf, but the gist of it is that the website completely changed a week before the project
 was due to be finished and no time was available to create a new system
 
-WebScrapeInfo.pdf may also refer to an appendix, this has been intentionally left out
+WebScrapeInfo.pdf may also refer to an appendix
+This appendix contains additional documentation for the system
+
+
+
+IMPORTANT
+
+Do not attempt to run the web scraping system, it will not work, see WebScrapeInfo.pdf
