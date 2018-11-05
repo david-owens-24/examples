@@ -8,9 +8,7 @@ More information about the design of the program and database used can be found 
   
 Note that, even if the database is recreated, the web scraping system will not work.
 More information can be found in WebScrapeInfo.pdf, but the gist of it is that the website completely changed a week before the project
-was due to be finished and no time was available to create a new system
-
-WebScrapeInfo.pdf refers to prototype systems. These have been intentionally omitted as they are bad
+was due to be finished and no time was available to create a new system.
 
 
 IMPORTANT
