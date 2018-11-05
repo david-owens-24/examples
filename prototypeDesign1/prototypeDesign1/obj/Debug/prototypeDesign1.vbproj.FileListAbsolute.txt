@@ -1,0 +1,15 @@
+C:\Users\Dave\AppData\Local\Temporary Projects\prototypeDesign1\bin\Debug\prototypeDesign1.exe.config
+C:\Users\Dave\Documents\Visual Studio 2015\Projects\prototypeDesign1\prototypeDesign1\bin\Debug\prototypeDesign1.exe.config
+C:\Users\Dave\Documents\Visual Studio 2015\Projects\prototypeDesign1\prototypeDesign1\bin\Debug\prototypeDesign1.exe
+C:\Users\Dave\Documents\Visual Studio 2015\Projects\prototypeDesign1\prototypeDesign1\bin\Debug\prototypeDesign1.pdb
+C:\Users\Dave\Documents\Visual Studio 2015\Projects\prototypeDesign1\prototypeDesign1\bin\Debug\prototypeDesign1.xml
+C:\Users\Dave\Documents\Visual Studio 2015\Projects\prototypeDesign1\prototypeDesign1\obj\Debug\prototypeDesign1.vbprojResolveAssemblyReference.cache
+C:\Users\Dave\Documents\Visual Studio 2015\Projects\prototypeDesign1\prototypeDesign1\obj\Debug\prototypeDesign1.Form1.resources
+C:\Users\Dave\Documents\Visual Studio 2015\Projects\prototypeDesign1\prototypeDesign1\obj\Debug\prototypeDesign1.Resources.resources
+C:\Users\Dave\Documents\Visual Studio 2015\Projects\prototypeDesign1\prototypeDesign1\obj\Debug\prototypeDesign1.vbproj.GenerateResource.Cache
+C:\Users\Dave\Documents\Visual Studio 2015\Projects\prototypeDesign1\prototypeDesign1\obj\Debug\prototypeDesign1.exe
+C:\Users\Dave\Documents\Visual Studio 2015\Projects\prototypeDesign1\prototypeDesign1\obj\Debug\prototypeDesign1.xml
+C:\Users\Dave\Documents\Visual Studio 2015\Projects\prototypeDesign1\prototypeDesign1\obj\Debug\prototypeDesign1.pdb
+C:\Users\Dave\Documents\Visual Studio 2015\Projects\prototypeDesign1\prototypeDesign1\bin\Debug\MySql.Data.dll
+C:\Users\Dave\Documents\Visual Studio 2015\Projects\prototypeDesign1\prototypeDesign1\bin\Debug\MySql.Data.xml
+C:\Users\Dave\Documents\Visual Studio 2015\Projects\prototypeDesign1\prototypeDesign1\obj\Debug\prototypeDesign1.selectGraphType.resources
